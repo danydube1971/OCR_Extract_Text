@@ -11,4 +11,6 @@ apt-get install tesseract-ocr
 
 apt-get install tesseract-ocr-fra
 
+Script python 3 testé dans Linux Mint 21
+
 
